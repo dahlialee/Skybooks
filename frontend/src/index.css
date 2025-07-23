@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --theme-color: #fff;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  background-color: var(--theme-color);
+}

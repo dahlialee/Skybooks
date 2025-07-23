@@ -1,0 +1,22 @@
+{
+  "short_name": "Skybooks",
+  "name": "Skybooks - Cửa hàng sách online",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "display": "standalone",
+  "scope": "/",
+  "orientation": "portrait"
+}
